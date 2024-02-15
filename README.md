@@ -19,6 +19,8 @@ I have pre-trained these two models and provided an overview of their performanc
 
 Please note that the paths for the images are from Kaggle and are created for a Kaggle notebook. Due to the large memory usage of the original dataset (over 30GB), I did not download it to my repository.
 
+I only uploaded the model for segmentation since the model for classification is too large to upload to GitHub, model_inference_example.ipynb uses both pre-trained models, I also uploaded these two models that I had already trained to Kaggle
+
 
 
 
